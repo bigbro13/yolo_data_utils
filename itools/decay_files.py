@@ -99,7 +99,6 @@ if __name__ == '__main__':
     # decay_via = ['PLON','PLOFF']
     # via_total = ['lamoff', 'lampon', "power","sr", "switchoff","switchon", "res","a_", "v2", 'p_','s_','v1']
     # decay_via = ['labels_off','bigger_']
-    # 石家庄化学实验二
     #via_total = ['beaker_s', 'glass_rod']
     decay_via = []
     for x in via_total:
